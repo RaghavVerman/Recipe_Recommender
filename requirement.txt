@@ -1,0 +1,10 @@
+# Core Data Science Stack
+pandas
+numpy
+scikit-learn
+
+# Web Interface
+streamlit
+
+# Image Handling
+Pillow
